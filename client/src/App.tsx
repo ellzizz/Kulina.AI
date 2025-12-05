@@ -7,6 +7,10 @@ import NotFound from "@/pages/not-found";
 import LandingPage from "@/pages/landing";
 import AdminLogin from "@/pages/auth/admin-login";
 import ConsumerLogin from "@/pages/auth/consumer-login";
+import AdminMenu from "@/pages/admin/menu";
+import AdminTransactions from "@/pages/admin/transactions";
+import AdminAnalytics from "@/pages/admin/analytics";
+import AdminPromo from "@/pages/admin/promo";
 import AdminDashboard from "@/pages/admin/dashboard";
 import ConsumerDashboard from "@/pages/consumer/dashboard";
 
@@ -24,6 +28,11 @@ function Router() {
       
       {/* Dashboard Routes */}
       <Route path="/admin/dashboard" component={AdminDashboard} />
+      <Route path="/admin/menu" component={AdminMenu} />
+      <Route path="/admin/transactions" component={AdminTransactions} />
+      <Route path="/admin/analytics" component={AdminAnalytics} />
+      <Route path="/admin/promo" component={AdminPromo} />
+      
       <Route path="/consumer/dashboard" component={ConsumerDashboard} />
       
       <Route component={NotFound} />
