@@ -54,8 +54,12 @@ export default function LandingPage() {
             <a href="#consumer" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">Untuk Pelanggan</a>
           </div>
           <div className="flex items-center gap-3">
-            <Button variant="ghost" size="sm" className="font-medium">Masuk</Button>
-            <Button size="sm" className="font-medium shadow-lg shadow-primary/20 hover:shadow-primary/40 transition-all">Daftar Sekarang</Button>
+            <Link href="/auth-options">
+              <Button variant="ghost" size="sm" className="font-medium">Masuk</Button>
+            </Link>
+            <Link href="/admin/login">
+              <Button size="sm" className="font-medium shadow-lg shadow-primary/20 hover:shadow-primary/40 transition-all">Daftar Sekarang</Button>
+            </Link>
           </div>
         </div>
       </nav>
