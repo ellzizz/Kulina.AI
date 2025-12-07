@@ -17,7 +17,6 @@ Platform berbasis Artificial Intelligence untuk digitalisasi rumah makan dengan 
 
 ## 📸 Demo
 
-> **Note:** Tambahkan screenshot atau GIF demo aplikasi di sini
 <img width="1770" height="808" alt="image" src="https://github.com/user-attachments/assets/ecf1c9b5-42ae-4acd-95fb-a9588d366be2" />
 
 ### 🎥 Video Demo
