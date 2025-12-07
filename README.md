@@ -21,8 +21,8 @@ Platform berbasis Artificial Intelligence untuk digitalisasi rumah makan dengan 
 <img width="1770" height="808" alt="image" src="https://github.com/user-attachments/assets/ecf1c9b5-42ae-4acd-95fb-a9588d366be2" />
 
 ### 🎥 Video Demo
-<!-- https://www.youtube.com/watch?v=b0yoxZ4z_iU&feature=youtu.be -->
-
+<!--  -->
+https://www.youtube.com/watch?v=b0yoxZ4z_iU&feature=youtu.be
 ---
 
 ## ✨ Features
