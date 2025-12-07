@@ -312,7 +312,9 @@ Model yang didukung (via OpenRouter):
 
 ## 🤝 Contributing
 Terima kasih untuk para kontribusi:
+
 Naacht
+
 Putri Anggriyani
 
 Kontribusi sangat diterima! Berikut cara untuk berkontribusi:
